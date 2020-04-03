@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "GoodLab"
+title                    : "GoodLabs"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Sebastian D. Goodfellow"
@@ -114,13 +114,13 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/Seb-Good"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/sebastian-d-goodfellow-a4257841/"
-
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Seb-Good"
+    
 # Site Footer
 footer:
   links:
