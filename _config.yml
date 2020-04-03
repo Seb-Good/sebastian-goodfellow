@@ -93,7 +93,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Sebastian D. Goodfellow"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "eeny, meeny, miny, **code**."
   location         : "Toronto, Canada"
@@ -111,9 +111,9 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
+    - label: "https://github.com/Seb-Good"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/Seb-Good"
+      # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
