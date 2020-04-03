@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Sebastian D. Goodfellow"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/sebastian_goodfellow_square.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "eeny, meeny, miny, **code**."
   location         : "Toronto, Canada"
   email            :
@@ -102,9 +102,12 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
-    - label: "Website"
+    - label: "University of Toronto"
       icon: "fas fa-fw fa-link"
       url: "https://civmin.utoronto.ca/home/about-us/directory/professors/sebastian-goodfellow/"
+    - label: "Laussen Labs"
+      icon: "fas fa-fw fa-link"
+      url: "https://laussenlabs.ca/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -114,9 +117,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Seb-Good"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/sebastian-d-goodfellow-a4257841/"
 
 # Site Footer
 footer:
