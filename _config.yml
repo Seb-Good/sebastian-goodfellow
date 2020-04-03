@@ -93,7 +93,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sebastian **D.** Goodfellow"
+  name             : "Sebastian D. Goodfellow"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "eeny, meeny, miny, **code**."
   location         : "Toronto, Canada"
@@ -104,7 +104,7 @@ author:
       # url: mailto:your.name@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://civmin.utoronto.ca/home/about-us/directory/professors/sebastian-goodfellow/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
