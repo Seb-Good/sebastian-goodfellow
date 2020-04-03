@@ -108,19 +108,16 @@ author:
     - label: "Laussen Labs"
       icon: "fas fa-fw fa-link"
       url: "https://laussenlabs.ca/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-link"
+      url: "https://scholar.google.ca/citations?user=lvnC9bMAAAAJ&hl=en&oi=ao"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/sebastian-d-goodfellow-a4257841/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Seb-Good"
-    
+
 # Site Footer
 footer:
   links:
