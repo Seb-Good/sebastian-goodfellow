@@ -109,7 +109,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://laussenlabs.ca/"
     - label: "Google Scholar"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-google"
       url: "https://scholar.google.ca/citations?user=lvnC9bMAAAAJ&hl=en&oi=ao"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
