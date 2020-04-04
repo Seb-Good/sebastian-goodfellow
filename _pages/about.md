@@ -1,3 +1,6 @@
+---
 title: "About"
 permalink: /about/
-___
+---
+
+A bit about me.
