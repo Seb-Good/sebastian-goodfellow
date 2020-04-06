@@ -14,5 +14,5 @@ Under construction.
 ### [Introduction to Time Series Analysis for Civil and Mineral Engineers]()
 Under construction.
 
-### [Introduction to Borehole Geophysics for Mineral Engineers]()
+### [Borehole Measurement for Mineral Engineers]()
 Under construction.
