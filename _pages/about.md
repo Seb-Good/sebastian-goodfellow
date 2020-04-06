@@ -8,5 +8,3 @@ toc_label: Content
 ---
 
 # A bit about me.
-
-# Some more about me.

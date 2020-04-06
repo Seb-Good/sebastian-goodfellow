@@ -57,16 +57,16 @@ toc_label: Content
 
 ## Professional Experience
 - Senior Scientific Advisor | 2020 – Present<br>
-    KORE Geosystems
+    [KORE Geosystems](https://www.koregeosystems.com/)
     
 - AI Research & Development Lead | 2016 - 2020<br>
-    KORE Geosystems
+    [KORE Geosystems](https://www.koregeosystems.com/)
     
 - Algorithm Research & Development Lead | 2015 - 2016<br>
-    Itasca IMaGE
+    [Itasca IMaGE](https://www.itasca.ca/)
 
 - Freelance CAD Mechanical Design Engineer | 2013<br>
-    Mine Design Technologies
+    [Mine Design Technologies](https://mdt.ca/)
     
 
     
