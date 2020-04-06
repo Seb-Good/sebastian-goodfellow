@@ -140,7 +140,54 @@ DOI: 10.1002/2015GL063093
 23.	Tabari, M.G., **S. D. Goodfellow**, M. H. B. Nasseri, R. P. Young, 3D anisotropic velocity tomography of a water saturated rock under true-triaxial stress in the laboratory, AGU Fall Meeting, Dec 9–13, 2013, San Francisco, California, USA.
 24.	Nasseri, M.H.B, **S. D. Goodfellow**, R. P. Young, Comparison of fracture initiation and propagation in untreated and thermally damaged westerly granites using a geophysical imaging cell, AGU Fall Meeting, Dec 5–9, 2011, San Francisco, California, USA.
 
-    
+### Text Book Contributions
+1.	"Flow visualization at a Reynolds number of 100,000 and angle of attack of 5 degrees with a single upstream smoke wire over a NACA 0025 airfoil". Flow visualization by **Sebastian D. Goodfellow**, University of Toronto. [Fundamental Mechanics of Fluids, Fourth Edition](https://www.crcpress.com/Fundamental-Mechanics-of-Fluids/Currie/p/book/9781439874608). Author: Ian G. Currie.
+
+## Intellectual Property
+1.	**Goodfellow, **S. D. and P. E. Sullivan, Improved aerodynamic control for wind turbines and micro-air vehicles, University of Toronto Confidential Intellectual Property Disclosure, 2011. 
+2.	Moser, A., **S. D. Goodfellow**, and P. E. Sullivan, A feedback scheme to control flow separation from micro-air vehicles or wind turbines, University of Toronto Confidential Intellectual Property Disclosure, 2011. 
+
+## Invited Talks
+- "Core logging with deep learning" | 2020<br>
+Managing and exploring big data through artificial intelligence and machine learning<br>
+PDAC 2020, Toronto, Ontario, Canada
+
+- "Classification of atrial fibrillation using machine learning" | 2018<br>
+Research Rounds<br>
+Department of Critical Care Medicine<br>
+The Hospital for Sick Children, Toronto, Ontario, Canada
+
+- "Application of machine learning to downhole geophysical and geochemical data" | 2018<br>
+DMEC workshop series: Application of artificial intelligence/machine learning to mineral exploration<br>
+PDAC 2018, Toronto, Ontario, Canada
+
+- "Stress Inversion from acoustic televiewer breakout data" | 2017<br>
+27th Mine Seismology Seminar, Sudbury, Ontario, Canada
+
+- "Advanced analysis of borehole data" | 2016<br>
+Mineral Resources Review Annual conference<br>
+CIM 2016, Saint John’s, Newfoundland, Canada
+
+- "Improved aerodynamic control for wind turbines and micro-air vehicles" | 2011<br>
+Innovation Review<br>
+MaRS, Toronto, Ontario, Canada
+
+## International Competitions
+- [**Victorian Premier's Design Award - Best in Category - Product Design 2019**](http://www.premiersdesignawards.com.au/)<br>
+The importance of design in industry is highlighted in this year’s Victorian Premier’s Design Award which highlighted the benefits design brings to manufactures. Judges by an expert panel of 27 independent judges from a field of more than 200 projects, several manufactures won Best in Category awards including Kore Geosystems.
+
+- [**2019 Good Design Award Winner 2019**](https://good-design.org/good-design-index/)<br>
+KORE Geosystems took home a product design award in the Commercial and Industrial category for its core logging product SPECTOR. Australia’s annual Good Design Awards program is one of the oldest and most prestigious international design awards in the world, promoting excellence in design and innovation since 1958. It is recognized by the World Design Organization (WDO) as Australia’s peak international design endorsement program. The Good Design Awards represent the diverse spectrum of design with 10 specific Design Disciplines, spanning 28 Categories. 
+
+- [**Disrupt Mining 2017**](https://www.disruptmining.com/)<br>
+Challenge: Disrupt Mining is a catalyst to accelerate innovation and bridge the gap between mining and technology. Disrupt Mining sent out an international call for disruptive technologies and received 170 submissions. 5 finalists were selected to pitch competing innovations to a “shark-tank” style panel of industry titans, in front of 1,000 mining executives, investors and financiers, to win $1,000,000 capital opportunity to bring their disruption to mining. 
+Result: Selected as a top 5 finalist and went on to win the competition and secure a $1,000,000 investment from Goldcorp.
+
+- [**Physionet Challenge 2017**](https://physionet.org/challenge/2017/)<br>
+Challenge: Build a machine learning model for heart arrhythmia classification of a single-lead ECG waveform that performs most accurately on a hidden test dataset.
+Result: Placed 9th out of 75 international teams with the third most accurate model. Top models are being tested for integrated into [AliveCor](https://www.alivecor.com/)’s wearable medical-grade ECG technology to deliver real-time arrhythmia detection.
+
+
     
 
     
