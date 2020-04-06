@@ -144,7 +144,7 @@ DOI: 10.1002/2015GL063093
 1.	"Flow visualization at a Reynolds number of 100,000 and angle of attack of 5 degrees with a single upstream smoke wire over a NACA 0025 airfoil". Flow visualization by **Sebastian D. Goodfellow**, University of Toronto. [Fundamental Mechanics of Fluids, Fourth Edition](https://www.crcpress.com/Fundamental-Mechanics-of-Fluids/Currie/p/book/9781439874608). Author: Ian G. Currie.
 
 ## Intellectual Property
-1.	**Goodfellow, **S. D. and P. E. Sullivan, Improved aerodynamic control for wind turbines and micro-air vehicles, University of Toronto Confidential Intellectual Property Disclosure, 2011. 
+1.	**Goodfellow, S. D.** and P. E. Sullivan, Improved aerodynamic control for wind turbines and micro-air vehicles, University of Toronto Confidential Intellectual Property Disclosure, 2011. 
 2.	Moser, A., **S. D. Goodfellow**, and P. E. Sullivan, A feedback scheme to control flow separation from micro-air vehicles or wind turbines, University of Toronto Confidential Intellectual Property Disclosure, 2011. 
 
 ## Invited Talks
