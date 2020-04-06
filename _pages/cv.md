@@ -70,8 +70,9 @@ toc_icon: border-all
     [Mine Design Technologies](https://mdt.ca/)
 
 ## Publications 
-Check [Google Scholar](https://scholar.google.ca/citations?user=lvnC9bMAAAAJ&hl=en&oi=ao) to see if anyone actually found these papers useful.
-   
+Check [Google Scholar](https://scholar.google.ca/citations?user=lvnC9bMAAAAJ&hl=en&oi=ao) to see if anyone actually found these papers useful.<br>
+*Indicates an oral presentation
+
 ### Refereed Journal Publications
 1.	Eytan, D., A. J. Goodwin, **S. D. Goodfellow**, A. Assadi, R. W. Greer, A. Jegatheeswaran, and M. L. Mazwi (2020) Big-data analysis reveals surprisingly prevalent hyperoxemia in critically-ill children, Intensive Care Medicine. (Submitted) 
 2.	Hirsch Allen, AJ, A. E. Beaudin, N. Fox, J. K. Raneri, R. P. Skomro, P. J. Hanly, D. R. Mazzotti, B. T. Keenan, E. E. Smith, **S. D. Goodfellow** and N. T. Ayas (2020) Symptom Subtypes and Cognitive Function in a Clinic-Based OSA Cohort: A Multi-Centre Canadian Study, Sleep Medicine. (Submitted)
